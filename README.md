@@ -1,1 +1,1 @@
-# kind-editor
+# KindEditor HTML 编辑器
